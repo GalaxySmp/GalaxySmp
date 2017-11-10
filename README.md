@@ -1,0 +1,2 @@
+# GalaxySmp
+Mibecraft server
